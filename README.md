@@ -18,7 +18,7 @@ Data structure should be structured as follows:
 	
 ### Training ###
 Please follow the steps as follows:
-1. Creates weight folder with name "weight". This folder to save model file(.h5) after training process finish.
+1. Creates weight folder with name "weight". This folder saves model file(.h5) after training process finish.
 2. Run train.py script. You also can change (epochs, validation split, image size...) to be suitable in your case
 
 ### Test ###

@@ -26,4 +26,5 @@ Checks for the existence of h5 file in weight folder. After that, run test.py. Y
 
 ## Result ## 
 This model archives 99% accuracy on validation set.
+![alt text](https://github.com/vanloc19bk96/carvana_segmentation/blob/master/result/accuracy.PNG)	![alt text](https://github.com/vanloc19bk96/carvana_segmentation/blob/master/result/loss.PNG)
 ![alt text](https://github.com/vanloc19bk96/carvana_segmentation/blob/master/result/result.PNG)
